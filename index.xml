@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>💻 on Manos Diamantakis</title>
+    <link>https://manosdiam.github.io/my-cv/</link>
+    <description>Recent content in 💻 on Manos Diamantakis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://manosdiam.github.io/my-cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://manosdiam.github.io/my-cv/about/</link>
+      <pubDate>Sun, 06 Nov 2022 04:02:33 +0200</pubDate>
+      
+      <guid>https://manosdiam.github.io/my-cv/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
